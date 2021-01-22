@@ -11,10 +11,11 @@ ulang="y"
 while [ $ulang = "y" ]
 do
 
-python3 999dice.py &
-python3 999dice.py &
-python3 999dice.py &
-python3 999dice.py
+python 999dice.py &
+python 999dice.py &
+python 999dice.py &
+python 999dice.py &
+python 999dice.py
 
 x=30
 while [ $x -gt 0 ]
