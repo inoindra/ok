@@ -6,7 +6,7 @@
      },
  "Target Profit": "0.1",
  "Target Win": "5000",
- "Lose Target": "-2",
+ "Lose Target": "-1",
  "Reset If Target Profit": "ON",
  "Reset If Target Win": "OFF",
  "Interval": "0",
@@ -14,7 +14,7 @@
 
      "Name Bet Set": "1⃣",
      "Base Bet": "0.0001",
-     "Max Bet": "0.5",
+     "Max Bet": "0.2",
      "Chance": "10.5",
      "Random Chance": {
           "Toggle": "OFF",
