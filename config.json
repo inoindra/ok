@@ -22,7 +22,7 @@
           "Max": "15"
         },
      "Bet": {
-          "Bet": "Low",
+          "Bet": "Hi",
           "Hi / Low": {
               "Toggle": "OFF",
               "If Lose": "2",
