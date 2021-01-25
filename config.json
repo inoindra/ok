@@ -4,7 +4,7 @@
 "Username": "idlogin",
      "Password": "password"
      },
- "Target Profit": "1",
+ "Target Profit": "10",
  "Target Win": "5000",
  "Lose Target": "-2",
  "Reset If Target Profit": "ON",
@@ -13,7 +13,7 @@
  "Config": [{
 
      "Name Bet Set": "1⃣",
-     "Base Bet": "0.01234567",
+     "Base Bet": "0.00012345678",
      "Max Bet": "0.5",
      "Chance": "10.5",
      "Random Chance": {
