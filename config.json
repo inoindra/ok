@@ -4,34 +4,34 @@
 "Username": "idlogin",
      "Password": "password"
      },
- "Target Profit": "0.1",
- "Target Win": "5000",
- "Lose Target": "-1",
+ "Target Profit": "1",
+ "Target Win": "15000",
+ "Lose Target": "0",
  "Reset If Target Profit": "ON",
  "Reset If Target Win": "OFF",
  "Interval": "0",
  "Config": [{
 
      "Name Bet Set": "1⃣",
-     "Base Bet": "0.0001",
-     "Max Bet": "0.2",
-     "Chance": "10.5",
+     "Base Bet": "0.001",
+     "Max Bet": "OFF",
+     "Chance": "22.22",
      "Random Chance": {
-          "Toggle": "OFF",
+          "Toggle": "ON",
           "Min": "10",
           "Max": "15"
         },
      "Bet": {
           "Bet": "Hi",
           "Hi / Low": {
-              "Toggle": "OFF",
-              "If Lose": "2",
-              "If Win": "1"
+              "Toggle": "ON",
+              "If Lose": "7",
+              "If Win": "3"
             }
         },
-     "If Win": "1",
-     "If Lose": "1.21",
-     "Reset If Win": "1",
+     "If Win": "1.0",
+     "If Lose": "1.1",
+     "Reset If Win": "3",
      "Reset If Profit": "0.00000001",
      "Interval": "0"
      },{
