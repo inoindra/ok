@@ -12,14 +12,14 @@
  "Interval": "0",
  "Config": [{
 
-     "Name Bet Set": "1⃣",
+     "Name Bet Set": "ulo2an",
      "Base Bet": "0.001",
      "Max Bet": "OFF",
      "Chance": "22.22",
      "Random Chance": {
           "Toggle": "ON",
-          "Min": "10",
-          "Max": "15"
+          "Min": "20",
+          "Max": "25"
         },
      "Bet": {
           "Bet": "Hi",
