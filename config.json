@@ -6,20 +6,20 @@
      },
  "Target Profit": "1",
  "Target Win": "15000",
- "Lose Target": "0",
+ "Lose Target": "200",
  "Reset If Target Profit": "ON",
  "Reset If Target Win": "OFF",
  "Interval": "0",
  "Config": [{
 
-     "Name Bet Set": "ulo2an",
+     "Name Bet Set": "ulo2⃣an",
      "Base Bet": "0.001",
      "Max Bet": "OFF",
      "Chance": "22.22",
      "Random Chance": {
           "Toggle": "ON",
-          "Min": "20",
-          "Max": "25"
+          "Min": "5",
+          "Max": "10"
         },
      "Bet": {
           "Bet": "Hi",
@@ -29,8 +29,8 @@
               "If Win": "3"
             }
         },
-     "If Win": "1.0",
-     "If Lose": "1.1",
+     "If Win": "0.7",
+     "If Lose": "1.05",
      "Reset If Win": "3",
      "Reset If Profit": "0.00000001",
      "Interval": "0"
@@ -86,9 +86,9 @@
   ],
   "Auto Wd": {
        "Toggle": "OFF",
-       "If Balance": "62",
+       "If Balance": "100",
        "Wallet Address":"DH8EU7gjqfx76avgjPfXZqifFFKRUxJVm7",
-       "Amount": "2"
+       "Amount": "100"
       },
   "User-Agent": "Android Phone / Chrome 65 [Mobile]:Mozilla/5.0 (Linux; Android 8.0; BLA-L29 Build/HUAWEIBLA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3236.6 Mobile Safari/537.36"
 
