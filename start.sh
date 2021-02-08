@@ -11,13 +11,9 @@ ulang="y"
 while [ $ulang = "y" ]
 do
 
-python 999dice.py &
-python 999dice.py &
-python 999dice.py &
-python 999dice.py &
 python 999dice.py
 
-x=30
+x=10
 while [ $x -gt 0 ]
 do
 sleep 1s
