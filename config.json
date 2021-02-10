@@ -1,12 +1,12 @@
 {
 
- "Account": {
+"Account": {
 "Username": "idlogin",
-     "Password": "password"
+"Password": "password"
      },
  "Target Profit": "1",
- "Target Win": "15000",
- "Lose Target": "200",
+ "Target Win": "150",
+ "Lose Target": "80",
  "Reset If Target Profit": "ON",
  "Reset If Target Win": "OFF",
  "Interval": "0",
@@ -15,11 +15,11 @@
      "Name Bet Set": "ulo2⃣an",
      "Base Bet": "0.001",
      "Max Bet": "OFF",
-     "Chance": "22.22",
+     "Chance": "55.55",
      "Random Chance": {
           "Toggle": "ON",
-          "Min": "5",
-          "Max": "10"
+          "Min": "50",
+          "Max": "65"
         },
      "Bet": {
           "Bet": "Hi",
@@ -29,8 +29,8 @@
               "If Win": "3"
             }
         },
-     "If Win": "0.7",
-     "If Lose": "1.05",
+     "If Win": "0.50012345",
+     "If Lose": "2.00012345",
      "Reset If Win": "3",
      "Reset If Profit": "0.00000001",
      "Interval": "0"
