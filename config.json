@@ -13,7 +13,7 @@
  "Config": [{
 
      "Name Bet Set": "ulo2⃣an",
-     "Base Bet": "0.001",
+     "Base Bet": "0.0001",
      "Max Bet": "0.5",
      "Chance": "55.55",
      "Random Chance": {
@@ -31,7 +31,7 @@
         },
      "If Win": "0.7",
      "If Lose": "1.15",
-     "Reset If Win": "1",
+     "Reset If Win": "3",
      "Reset If Profit": "0.00000001",
      "Interval": "0"
      },{
